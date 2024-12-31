@@ -9,8 +9,10 @@
   },
   "packageRules": [
     {
-      "matchPackagePatterns": ["*"],
-      "groupName": "python-deps"
+      "groupName": "python-deps",
+      "matchPackageNames": [
+        "*"
+      ]
     }
   ]
 }
