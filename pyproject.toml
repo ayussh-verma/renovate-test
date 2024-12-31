@@ -12,7 +12,7 @@ dependencies = [
     "pandas>=2.2.3",
     "pyopenssl>=24.2.1",
     "requests>=2.32.3",
-    "rich==13.9.3",
+    "rich==13.9.4",
     "stamina>=24.3.0",
 ]
 
